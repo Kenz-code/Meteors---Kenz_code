@@ -1,0 +1,8 @@
+The program will not work if you do not do this important step,
+
+In the folder, galaga type game, you will find a folder call arcadeclassic.
+
+Please put the font file(.ttf) in your fonts folder or else the game will not work
+
+Sincerly,
+Kenz-code
