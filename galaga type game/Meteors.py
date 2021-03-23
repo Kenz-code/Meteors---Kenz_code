@@ -1,3 +1,15 @@
+'''
+This is the main game code
+run this for the game to work
+
+Made by Kenz-code
+'''
+
+
+
+
+
+
 import os
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame as py
